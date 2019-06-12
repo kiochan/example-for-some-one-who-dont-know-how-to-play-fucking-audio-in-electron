@@ -1,0 +1,14 @@
+{
+  "name": "example-for-some-one-who-dont-know-how-to-play-fucking-audio-in-electron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kiochan/example-for-some-one-who-dont-know-how-to-play-fucking-audio-in-electron.git",
+  "author": "Kiochan <sunxingchen@live.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^5.0.3"
+  },
+  "scripts" : {
+    "start": "electron ."
+  }
+}
